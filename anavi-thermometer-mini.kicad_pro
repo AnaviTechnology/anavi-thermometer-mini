@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.7,
-          "height": 4.7,
-          "width": 4.7
+          "drill": 3.2,
+          "height": 5.6,
+          "width": 5.6
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -523,7 +523,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "plots/anavi-thermometer-mini-10/",
+      "plot": "plots/anavi-thermometer-mini-11/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
